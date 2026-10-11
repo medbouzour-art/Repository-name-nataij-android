@@ -1,0 +1,9 @@
+{
+  "appId": "ma.bouzour.nataij",
+  "appName": "استثمار النتائج",
+  "webDir": "www",
+  "backgroundColor": "#08193f",
+  "android": {
+    "allowMixedContent": false
+  }
+}
